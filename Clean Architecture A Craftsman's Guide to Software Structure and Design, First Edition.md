@@ -42,31 +42,14 @@
         1. if not..
             1. debug and refactor until then
 1. Architecture
-    1. 
-        1. 
-    1. 
-        1. 
-    1. 
-        1. 
-1. The Greater Value
-    1. 
-        1. 
-    1. 
-        1. 
-    1. 
-        1. 
+    1. makes it difficult to change
 1. Eisenhower’s Matrix
-    1. 
-        1. 
-    1. 
-        1. 
-    1. 
-        1. 
+    1. Behavior
+        1. urgent; not always important
+    1. Architecture
+        1. important; not always urgent
 1. Fight for the Architecture
-    1. 
-        1. 
-    1. 
-        1. 
+    1. Architecture is important
 
 </details>
 
@@ -82,11 +65,25 @@
 <details>
 <summary>Expand</summary>
 
-        Structured Programming
-        Object-Oriented Programming
-        Functional Programming
-        Food for Thought
-        Conclusion
+1. Structured Programming
+    1. 1968
+    1. First Programming structure by Edsger Dijkstra
+    1. `if/then/else` and `do/while/until`
+1. Object-Oriented Programming
+    1. 1966
+    1. Dahl and Nygaard
+    1. organize into class
+1. Functional Programming
+    1. 1958 with Alonzo Church
+1. Conclusion
+    1. Use polymorphism
+        1. to cross architectural boundaries
+    1. functional programming
+        1. to impose discipline on ...
+            1. the location of data
+            1. the access to data
+    1. structured programming
+        1. to implement algorithmic solution
 
 </details>
 
@@ -94,13 +91,11 @@
 
 <details>
 <summary>Expand</summary>
-        Proof
-        A Harmful Proclamation
-        Functional Decomposition
-        No Formal Proofs
-        Science to the Rescue
-        Tests
-        Conclusion
+1. Proof
+    1. Wrote a proof replacing `goto` with `if/else`
+1. Tests
+    1. tests prove the presence not absence of bugs
+        1. can never be proven correct 
 
 </details>
 
