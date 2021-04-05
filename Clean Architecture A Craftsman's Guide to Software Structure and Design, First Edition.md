@@ -10,9 +10,21 @@
 <details>
 <summary>Expand</summary>
 
-The Goal?
-Case Study
-Conclusion
+1. Intro
+    1. What is the difference between Architecture and Design
+        1. “architecture” is often used in the context of something at a high level
+        1. “design” more often seems to imply structures and decisions at a lower level
+1. The Goal?
+    1. Basic Definition
+        1. goal of **software architecture** is to minimize the human resources required to build and maintain the required system.
+    1. Measure of design quality
+        1. measure of effort required to meet needs of customer
+1. Case Study
+    1. Company explodes in engineering staff
+        1. More code per employee
+1. Signature of a Mess
+    1. More code--- more time updating and fixing mess
+        1. TDD means less cleaning to do later
 
 </details>
 
@@ -21,11 +33,40 @@ Conclusion
 <details>
 <summary>Expand</summary>
 
-Behavior
-Architecture
-The Greater Value
-Eisenhower’s Matrix
-Fight for the Architecture
+1. Intro
+    1. Two Measurements
+        1. Behavior
+        1. Structure
+1. Behavior
+    1. We expect software to react
+        1. if not..
+            1. debug and refactor until then
+1. Architecture
+    1. 
+        1. 
+    1. 
+        1. 
+    1. 
+        1. 
+1. The Greater Value
+    1. 
+        1. 
+    1. 
+        1. 
+    1. 
+        1. 
+1. Eisenhower’s Matrix
+    1. 
+        1. 
+    1. 
+        1. 
+    1. 
+        1. 
+1. Fight for the Architecture
+    1. 
+        1. 
+    1. 
+        1. 
 
 </details>
 
