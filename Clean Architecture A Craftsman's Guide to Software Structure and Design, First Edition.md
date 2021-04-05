@@ -91,6 +91,7 @@
 
 <details>
 <summary>Expand</summary>
+
 1. Proof
     1. Wrote a proof replacing `goto` with `if/else`
 1. Tests
@@ -104,10 +105,19 @@
 <details>
 <summary>Expand</summary>
 
-        Encapsulation?
-        Inheritance?
-        Polymorphism?
-        Conclusion
+1. What is it
+    1. combination of `data` and function
+1. Encapsulation?
+    1. encapsulation of `data` and `function`
+    1. manage access with modifiers
+        1. `public` `private` `protected`
+1. Inheritance?
+    1. redeclaration of a group of variables and functions within an enclosing scope
+        1. 
+1. Polymorphism?
+    1. gives the ability to control over source code dependency 
+        1. create a plugin architecture
+            1. modules contain high-level policies are independent of modules
 
 </details>
 
@@ -116,11 +126,36 @@
 <details>
 <summary>Expand</summary>
 
-        Squares of Integers
-        Immutability and Architecture
-        Segregation of Mutability
-        Event Sourcing
-        Conclusion
+1. Squares of Integers
+    1. Printing the squares of first 25 integers
+        1. ![](pict/chapt06.01.01.jpg)
+    1. Java program uses a mutable variable
+        1. a variable that changes state during the execution of the program. 
+        1. i—the loop control variable
+    1. No such mutable variable in Clojure
+        1. In Clojure, variables are initialized
+            1. but never modified.
+1. Immutability and Architecture
+    1. Lesson Learned from the above...
+        1. All race conditions, deadlock conditions, and concurrent update problems are ...
+            1. due to mutable variables
+1. Segregation of Mutability
+    1. 
+        1. 
+    1. 
+        1. 
+    1. 
+        1. 
+1. Event Sourcing
+    1. 
+        1. 
+    1. 
+        1. 
+1. Conclusion
+    1. 
+        1. 
+    1. 
+        1. 
 
 </details>
 
